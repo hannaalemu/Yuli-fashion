@@ -59,7 +59,7 @@ Cart.prototype.saveToLocalStorage = function () {
     for (var i = 0; i < cartItemList.length; i++){
       cartItemList = JSON.parse(localStorage.getItem('cartData'));
       itemCount += parseInt(cartItemList[i].quantity);
-      spanElement.textContent = `( ${itemCount} )`;
+      spanElement.textContent = `(${itemCount})`;
     }
   }
 };
