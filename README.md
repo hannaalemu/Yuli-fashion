@@ -1,4 +1,6 @@
-# bus-mall-cart
+# Yuli Fashion
+
+## This website is an online shopping site for Yuli's fashion, inspired by the bus mall project.
 
 Home Page Wireframed
 
